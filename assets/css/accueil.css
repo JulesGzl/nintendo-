@@ -1,0 +1,15 @@
+#bandeau {
+    display: flex;
+    align-items: center;
+    background-color: #e60012;
+    color: white;
+    justify-content: space-between;
+    padding-left : 10rem;
+    padding-right : 10rem;
+
+}
+
+a {
+    margin-left: 10px;
+    margin-right: 10px;
+}

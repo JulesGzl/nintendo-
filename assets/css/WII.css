@@ -1,0 +1,23 @@
+
+#bandeau {
+    display: flex;
+    align-items: center;
+    background-color: #7a7878;
+    color: black;
+    justify-content: space-between;
+    padding-left : 6rem;
+    padding-right : 4rem;
+}
+
+a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bouton {
+    border-radius: 1rem;
+    border: 1px solid #7a7878;
+    color: white;
+    background-color: black;
+    padding: 1em;
+}

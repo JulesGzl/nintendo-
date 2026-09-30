@@ -4,12 +4,37 @@
     background-color: #e60012;
     color: white;
     justify-content: space-between;
-    padding-left : 10rem;
-    padding-right : 10rem;
+    padding-left : 6rem;
+    padding-right : 4rem;
 
 }
 
 a {
     margin-left: 10px;
     margin-right: 10px;
+}
+
+.bouton {
+    border-radius: 1rem;
+    border: 1px solid #e60012;
+    color: white;
+    background-color: black;
+    padding: 1em;
+}
+
+section {
+    position: relative;
+    display: flex;
+    min-height: calc(100vh - 76px);
+    overflow: hidden;
+    background:url("assets/img/hero.png") ;
+    color: white;
+}
+
+
+#divhero {
+    display: flex;
+    align-items: start;
+    margin-left: 5em;
+    margin-top: 9em;
 }

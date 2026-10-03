@@ -1,0 +1,39 @@
+#bandeau {
+    display: flex;
+    align-items: center;
+    background-color: #e60012;
+    color: white;
+    justify-content: space-between;
+    padding-left : 6rem;
+    padding-right : 4rem;
+
+}
+
+.a_b {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bouton {
+    border-radius: 1rem;
+    border: 1px solid #e60012;
+    color: white;
+    background-color: black;
+    padding: 1em;
+}
+
+
+.bande {
+    width: 100%;
+    height: 20em;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+
+}
+
+#all_bande {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="866ab784-beb8-4daa-adee-826504960bc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/consoles.png" afterDir="false" />
+    <list default="true" id="866ab784-beb8-4daa-adee-826504960bc8" name="Changes" comment="ajout image et suite carte">
+      <change afterPath="$PROJECT_DIR$/assets/css/consoles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/consoles/Consoles.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Nintendo_switch_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Nintendo_switch_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/WII_U.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/WII_U.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/accueil.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/nintendo_switch.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/nintendo_switch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/Nintendo_switch_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/Nintendo_switch_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/WII.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/WII.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/WII_U.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/WII_U.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/Nintendo_switch_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/Nintendo_switch_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/WII.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/WII.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/WII_U.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/WII_U.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/accueil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/nintendo_switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/nintendo_switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/nintendo_switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/nintendo_switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/consoles.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/catégories/consoles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_aventures.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/catégories/jeux_aventures.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_casu.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/catégories/jeux_casu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_compétitifs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/catégories/jeux_compétitifs.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,61 +41,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000008773" />
-      <entry key="S2" value="1.0010506978375837" />
-      <entry key="S5" value="1.0952593392059427" />
-      <entry key="S10" value="1.6102864223649913" />
-      <entry key="S30" value="4.2139635234875135" />
-      <entry key="S60" value="6.901599458407249" />
-      <entry key="M2" value="10.643763695162988" />
-      <entry key="M5" value="18.79274640498569" />
-      <entry key="M10" value="28.6638168017901" />
-      <entry key="M15" value="35.35997290264957" />
-      <entry key="M30" value="46.567113097883016" />
-      <entry key="H1" value="63.42169940567423" />
-      <entry key="H2" value="109.05563115647837" />
-      <entry key="H4" value="184.11744944079223" />
-      <entry key="D1" value="328.63387710480833" />
-      <entry key="W1" value="367.0652518810306" />
+      <entry key="MS100" value="1.0000000000013223" />
+      <entry key="MS500" value="1.0042125921598501" />
+      <entry key="S2" value="1.3294984315374248" />
+      <entry key="S5" value="2.336629483686245" />
+      <entry key="S10" value="3.6889847232875232" />
+      <entry key="S30" value="6.033369117848266" />
+      <entry key="S60" value="7.529715595813777" />
+      <entry key="M2" value="9.880027055619959" />
+      <entry key="M5" value="16.898414694322305" />
+      <entry key="M10" value="29.41174736178645" />
+      <entry key="M15" value="42.05958341904652" />
+      <entry key="M30" value="73.55604013830826" />
+      <entry key="H1" value="109.56288693805027" />
+      <entry key="H2" value="160.64436137085025" />
+      <entry key="H4" value="270.9226330189947" />
+      <entry key="D1" value="661.777745367301" />
+      <entry key="W1" value="812.5126319547124" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.2244401973767552E-193" />
-      <entry key="MS500" value="2.6156974906057738E-39" />
-      <entry key="S2" value="2.2615014937278638E-10" />
-      <entry key="S5" value="1.385985729911966E-4" />
-      <entry key="S10" value="0.01177430899940207" />
-      <entry key="S30" value="0.23931142580582118" />
-      <entry key="S60" value="0.6149624271784897" />
-      <entry key="M2" value="1.3332200987302576" />
-      <entry key="M5" value="3.052881771865013" />
-      <entry key="M10" value="4.849525452706197" />
-      <entry key="M15" value="5.9378285744193" />
-      <entry key="M30" value="7.584014841555316" />
-      <entry key="H1" value="9.36540655400336" />
-      <entry key="H2" value="13.168185274630046" />
-      <entry key="H4" value="19.147756782037952" />
-      <entry key="D1" value="30.47214305737185" />
-      <entry key="W1" value="33.46137838124957" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.88167432293676E-125" />
+      <entry key="S5" value="2.0919930004823147E-50" />
+      <entry key="S10" value="2.4216118051486766E-25" />
+      <entry key="S30" value="1.2873596164643889E-8" />
+      <entry key="S60" value="2.0147486098875213E-4" />
+      <entry key="M2" value="0.03010848975528" />
+      <entry key="M5" value="0.930378476331159" />
+      <entry key="M10" value="3.659071137112266" />
+      <entry key="M15" value="6.266838043093768" />
+      <entry key="M30" value="11.812397892248168" />
+      <entry key="H1" value="17.185728572662192" />
+      <entry key="H2" value="22.160028177417082" />
+      <entry key="H4" value="29.56131185117798" />
+      <entry key="D1" value="54.97106551656997" />
+      <entry key="W1" value="65.0210184463204" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.21464135910943843" />
-      <entry key="MS500" value="0.7350936681950946" />
-      <entry key="S2" value="0.9268893240296331" />
-      <entry key="S5" value="1.060115687196184" />
-      <entry key="S10" value="1.579173133331428" />
-      <entry key="S30" value="4.354306321790661" />
-      <entry key="S60" value="7.4158454766844555" />
-      <entry key="M2" value="11.887792966305186" />
-      <entry key="M5" value="21.77166955103955" />
-      <entry key="M10" value="33.45432009502688" />
-      <entry key="M15" value="41.24888566563485" />
-      <entry key="M30" value="54.119165708034686" />
-      <entry key="H1" value="72.76732624096077" />
-      <entry key="H2" value="122.20997414341497" />
-      <entry key="H4" value="203.2550843313718" />
-      <entry key="D1" value="359.1032994644516" />
-      <entry key="W1" value="400.5262022028231" />
+      <entry key="MS100" value="0.8888426811676369" />
+      <entry key="MS500" value="0.9807436805621855" />
+      <entry key="S2" value="1.3183863649451442" />
+      <entry key="S5" value="2.3223448624239458" />
+      <entry key="S10" value="3.6711315947077154" />
+      <entry key="S30" value="6.015888277159251" />
+      <entry key="S60" value="7.515752850346676" />
+      <entry key="M2" value="9.896246740919938" />
+      <entry key="M5" value="17.80433222791085" />
+      <entry key="M10" value="33.03679271346219" />
+      <entry key="M15" value="48.289706080865805" />
+      <entry key="M30" value="85.3337227823134" />
+      <entry key="H1" value="126.72247000377719" />
+      <entry key="H2" value="182.78656527375435" />
+      <entry key="H4" value="300.4709338975312" />
+      <entry key="D1" value="716.7442285882553" />
+      <entry key="W1" value="877.5328595625617" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -101,6 +103,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3JgZcFHpL46JK08YnIgq5xhOxGO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -109,6 +114,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Consoles.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.WII.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.WII_U.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.accueil.html.executor&quot;: &quot;Run&quot;,
@@ -138,11 +144,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\html\consoles" />
+      <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\img\catégories" />
       <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\img\logo" />
       <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\html" />
       <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets" />
-      <recent name="C:\Users\jules\WebstormProjects\Nintendo\" />
-      <recent name="C:\Users\jules\WebstormProjects\Nintendo\img" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -169,11 +175,28 @@
       <workItem from="1790782334717" duration="1198000" />
       <workItem from="1790838628266" duration="973000" />
       <workItem from="1790841317288" duration="4374000" />
-      <workItem from="1790849821523" duration="4976000" />
+      <workItem from="1790849821523" duration="10472000" />
+      <workItem from="1790925870922" duration="1096000" />
+      <workItem from="1790930281094" duration="2238000" />
+      <workItem from="1791032881453" duration="15000" />
+      <workItem from="1791032904226" duration="4232000" />
     </task>
+    <task id="LOCAL-00001" summary="ajout image et suite carte">
+      <option name="closed" value="true" />
+      <created>1790858835872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790858835873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout image et suite carte" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout image et suite carte" />
   </component>
 </project>

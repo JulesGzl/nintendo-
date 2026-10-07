@@ -1,8 +1,8 @@
 #bandeau {
     display: flex;
     align-items: center;
-    background-color: #7a7878;
-    color: black;
+    background-color: #000000;
+    color: white;
     justify-content: space-between;
     padding-left : 6rem;
     padding-right : 4rem;

@@ -1,7 +1,7 @@
 #bandeau {
     display: flex;
     align-items: center;
-    background-color: #7a7878;
+    background-color: #e60012;
     color: black;
     justify-content: space-between;
     padding-left : 6rem;

@@ -1,0 +1,13 @@
+:root {
+
+
+    --font-main: robo, Helvetica, sans-serif;
+
+    --container-width: 1180px;
+    --page-padding: 24px;
+    --header-height: 76px;
+
+    --radius-small: 4px;
+    --radius-medium: 8px;
+    --transition-fast: 180ms ease;
+}

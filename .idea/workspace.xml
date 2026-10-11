@@ -5,18 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866ab784-beb8-4daa-adee-826504960bc8" name="Changes" comment="ajout image et suite carte">
-      <change afterPath="$PROJECT_DIR$/assets/css/variable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Nintendo_switch_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Nintendo_switch_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/WII.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/WII.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/WII_U.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/WII_U.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/accueil.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/consoles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/consoles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/nintendo_switch.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/nintendo_switch.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/consoles/Consoles.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/Consoles.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/consoles/Nintendo_switch_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/Nintendo_switch_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/consoles/WII.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/WII.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/consoles/WII_U.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/WII_U.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/consoles/nintendo_switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/consoles/nintendo_switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/mario_galaxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/mario_galaxi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/mario_striker.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/mario_striker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/mariokart_Wii.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/mariokart_Wii.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/smash_bros_brawl.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/smash_bros_brawl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/wii_sport.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/wii_sport.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/zelda_twilight_princess.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/WII/zelda_twilight_princess.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/Wii_U/smashbros.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/Wii_U/smashbros.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/Wii_U/zelda_windwaker.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/Wii_U/zelda_windwaker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_1/mario_odyssey.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_1/mario_odyssey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_1/pokemon_bouclier.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_1/pokemon_bouclier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_1/zelda_botw.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_1/zelda_botw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/donkey_kong_bananza.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/donkey_kong_bananza.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/mario_wonder.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/mario_wonder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/mariokart_world.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/mariokart_world.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/pokemon_pokopia.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/pokemon_pokopia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/zelda_ocarina_of_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jeux_consoles/switch_2/zelda_ocarina_of_time.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,62 +55,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.873113643908783E-21" />
-      <entry key="MS500" value="1.3463305203420894E-4" />
-      <entry key="S2" value="0.20126419217122188" />
-      <entry key="S5" value="1.0784878476043307" />
-      <entry key="S10" value="2.040732231431793" />
-      <entry key="S30" value="4.017544492719553" />
-      <entry key="S60" value="6.759617154399947" />
-      <entry key="M2" value="12.613342177424915" />
-      <entry key="M5" value="31.21281328711667" />
-      <entry key="M10" value="54.8263528357681" />
-      <entry key="M15" value="73.06065232819397" />
-      <entry key="M30" value="113.31100276953674" />
-      <entry key="H1" value="158.52897201341065" />
-      <entry key="H2" value="216.30699490481123" />
-      <entry key="H4" value="329.7956456431528" />
-      <entry key="D1" value="728.1326417812758" />
-      <entry key="W1" value="882.7040006411286" />
+      <entry key="MS100" value="1.0000000000001847" />
+      <entry key="MS500" value="1.0049398565818655" />
+      <entry key="S2" value="1.5002120383732556" />
+      <entry key="S5" value="2.578197377007773" />
+      <entry key="S10" value="3.8500990494813747" />
+      <entry key="S30" value="8.169260105958026" />
+      <entry key="S60" value="13.230991637775096" />
+      <entry key="M2" value="20.110787953600518" />
+      <entry key="M5" value="33.15353147095782" />
+      <entry key="M10" value="52.266277857941475" />
+      <entry key="M15" value="66.92583732227675" />
+      <entry key="M30" value="91.56814070629353" />
+      <entry key="H1" value="113.02354215804657" />
+      <entry key="H2" value="150.37754303996377" />
+      <entry key="H4" value="261.04343168827523" />
+      <entry key="D1" value="917.8074458304598" />
+      <entry key="W1" value="1281.686809079987" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000002" />
-      <entry key="S10" value="1.0000000157674005" />
-      <entry key="S30" value="1.003544005031207" />
-      <entry key="S60" value="1.0828833980211705" />
-      <entry key="M2" value="1.4260992237102204" />
-      <entry key="M5" value="2.51552876074223" />
-      <entry key="M10" value="4.661013289929031" />
-      <entry key="M15" value="7.01484381368624" />
-      <entry key="M30" value="12.857599654656834" />
-      <entry key="H1" value="19.26427379694294" />
-      <entry key="H2" value="25.261019578036272" />
-      <entry key="H4" value="33.30367475927445" />
-      <entry key="D1" value="59.58953778715902" />
-      <entry key="W1" value="69.95681378803464" />
+      <entry key="MS100" value="1.5935241734477254E-136" />
+      <entry key="MS500" value="6.9258284684701295E-28" />
+      <entry key="S2" value="1.6222505603645892E-7" />
+      <entry key="S5" value="0.0019234976529509057" />
+      <entry key="S10" value="0.04432932486312645" />
+      <entry key="S30" value="0.4641450870991547" />
+      <entry key="S60" value="1.1679031792004257" />
+      <entry key="M2" value="2.4207792234759253" />
+      <entry key="M5" value="5.31594093233092" />
+      <entry key="M10" value="9.58517906790354" />
+      <entry key="M15" value="12.800309110085008" />
+      <entry key="M30" value="18.479227213151443" />
+      <entry key="H1" value="23.650892822297156" />
+      <entry key="H2" value="30.20020977614371" />
+      <entry key="H4" value="43.62955967769767" />
+      <entry key="D1" value="103.18696738704271" />
+      <entry key="W1" value="132.7586465884489" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.537067267848007E-20" />
-      <entry key="MS500" value="2.0143520400402304E-4" />
-      <entry key="S2" value="0.2250684928170157" />
-      <entry key="S5" value="1.240073615853303" />
-      <entry key="S10" value="2.4248411984179024" />
-      <entry key="S30" value="4.639674542153196" />
-      <entry key="S60" value="7.504957115290993" />
-      <entry key="M2" value="13.761351434237158" />
-      <entry key="M5" value="33.551792508806074" />
-      <entry key="M10" value="59.36948882530211" />
-      <entry key="M15" value="79.98102429634243" />
-      <entry key="M30" value="126.10285005317293" />
-      <entry key="H1" value="177.74986469836628" />
-      <entry key="H2" value="241.54079141842587" />
-      <entry key="H4" value="363.08137889138135" />
-      <entry key="D1" value="787.716713069062" />
-      <entry key="W1" value="952.6598934894515" />
+      <entry key="MS100" value="4.3100732253716583E-4" />
+      <entry key="MS500" value="0.21682862156570357" />
+      <entry key="S2" value="1.1509914956075524" />
+      <entry key="S5" value="2.3469333001416586" />
+      <entry key="S10" value="3.702641552645118" />
+      <entry key="S30" value="8.45223822511024" />
+      <entry key="S60" value="14.235524617216496" />
+      <entry key="M2" value="22.406263431734725" />
+      <entry key="M5" value="38.3920503968572" />
+      <entry key="M10" value="61.79541141297665" />
+      <entry key="M15" value="79.68019273835321" />
+      <entry key="M30" value="110.0168735024153" />
+      <entry key="H1" value="136.65552824272794" />
+      <entry key="H2" value="180.56456758418952" />
+      <entry key="H4" value="304.6608460321574" />
+      <entry key="D1" value="1020.9875037325332" />
+      <entry key="W1" value="1414.4441022510548" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
@@ -114,6 +132,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Consoles.html.executor": "Run",
+    "JavaScript Debug.Nintendo_switch_2.html.executor": "Run",
     "JavaScript Debug.WII.html.executor": "Run",
     "JavaScript Debug.WII_U.html.executor": "Run",
     "JavaScript Debug.accueil.html.executor": "Run",
@@ -126,6 +145,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
@@ -143,11 +163,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\img\img_consoles" />
+      <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\img\hero" />
       <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\html\consoles" />
       <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\img\catégories" />
       <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\img\logo" />
-      <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets\html" />
-      <recent name="C:\Users\jules\WebstormProjects\Nintendo\assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -188,6 +208,10 @@
       <workItem from="1791183715726" duration="362000" />
       <workItem from="1791184085185" duration="824000" />
       <workItem from="1791379969952" duration="1095000" />
+      <workItem from="1791381075531" duration="3612000" />
+      <workItem from="1791479065682" duration="602000" />
+      <workItem from="1791636118614" duration="15360000" />
+      <workItem from="1791739819435" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="ajout image et suite carte">
       <option name="closed" value="true" />
